@@ -2,7 +2,7 @@
 
 ---
 
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC9ao0wlk--d-bsjnCHBKDzA?style=social"> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC9ao0wlk--d-bsjnCHBKDzA?style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/moe23?style=social">
+[<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC9ao0wlk--d-bsjnCHBKDzA?style=social">](https://www.youtube.com/c/mohamadlawand) [<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC9ao0wlk--d-bsjnCHBKDzA?style=social">](https://www.youtube.com/c/mohamadlawand) [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/moe23?style=social">](https://twitter.com/Moe23)
 
 I am a determined and forward-thinking Solutions Architect with 12+ years of experience, working across a wide range of industries, from financial institutes to government entities. Proactive and adaptable, specializing in SaaS across multiple platforms; with a strong understanding and deep practical experience in developing sustainable, secure and long-lasting business applications. 
 
@@ -37,6 +37,14 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 <!-- BLOG-POST-LIST:END -->
 
 🔗 [Visit my blog for more articles](https://dev.to/moe23)
+
+---
+💹 Github Stats
+
+![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadlawand087&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadlawand087&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mohamadlawand087/mohamadlawand087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
