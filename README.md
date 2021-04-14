@@ -1,4 +1,4 @@
-### Hi there 👋, I am Mohamad!
+### Hello friends 👋, I am Mohamad!
 
 ---
 
@@ -9,7 +9,7 @@ I am a determined and forward-thinking Solutions Architect with 12+ years of exp
 I create tech content related to DotNet, Azure and Angular. You can subscribe to my [Youtube Channel](https://www.youtube.com/c/mohamadlawand) and you can check my blog on [dev.to](https://dev.to/moe23)
 
 ---
-🧰 Main Tech Stack
+💻 Main Tech Stack
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift logo" width="40" height="40" />
 
