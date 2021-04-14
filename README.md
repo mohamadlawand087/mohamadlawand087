@@ -2,7 +2,7 @@
 
 ---
 
-[<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC9ao0wlk--d-bsjnCHBKDzA?style=social">](https://www.youtube.com/c/mohamadlawand) [<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC9ao0wlk--d-bsjnCHBKDzA?style=social">](https://www.youtube.com/c/mohamadlawand) [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/moe23?style=social">](https://twitter.com/Moe23)
+[<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC9ao0wlk--d-bsjnCHBKDzA?style=social">](https://www.youtube.com/channel/UC9ao0wlk--d-bsjnCHBKDzA?sub_confirmation=1) [<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC9ao0wlk--d-bsjnCHBKDzA?style=social">](https://www.youtube.com/c/mohamadlawand) [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/moe23?style=social">](https://twitter.com/Moe23)
 
 I am a determined and forward-thinking Solutions Architect with 12+ years of experience, working across a wide range of industries, from financial institutes to government entities. Proactive and adaptable, specializing in SaaS across multiple platforms; with a strong understanding and deep practical experience in developing sustainable, secure and long-lasting business applications. 
 
