@@ -18,7 +18,7 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Intro to Angular - Observables, Services, Nested Components - Part 2](https://www.youtube.com/watch?v=tS4SaUibVAA)
-- [Intro to Angular - Part 1](https://www.youtube.com/watch?v=YcatzwXWQ64)
+- [Intro to Angular - Overview, Components, Services, Bindings - Part 1](https://www.youtube.com/watch?v=YcatzwXWQ64)
 - [Creating MicroService with .Net 5](https://www.youtube.com/watch?v=1gPz0G6GZCU)
 - [.NET 5 Console App with Dependency Injection, Serilog Logging, and AppSettings](https://www.youtube.com/watch?v=4mEN1XpLN_s)
 - [Intro to Kubernetes - Step by Step](https://www.youtube.com/watch?v=0Bf7iqIf1Bk)
