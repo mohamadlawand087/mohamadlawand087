@@ -29,11 +29,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📖 Latest Article
 
 <!-- BLOG-POST-LIST:START -->
+- [Asp.Net Core 5 - API Versioning](https://dev.to/moe23/asp-net-core-5-api-versioning-3jnp)
 - [Intro to Angular - Observables, Services, Nested Components](https://dev.to/moe23/intro-to-angular-observables-services-nested-components-2ao9)
 - [Intro to Angular - Part 1](https://dev.to/moe23/intro-to-angular-part-1-428o)
 - [Creating MicroService with .Net 5](https://dev.to/moe23/creating-microservice-with-net-5-4oc)
 - [.NET 5 Console App with Dependency Injection, Serilog Logging, and AppSettings](https://dev.to/moe23/net-5-console-app-with-dependency-injection-serilog-logging-and-appsettings-3d4n)
-- [Intro to Kubernetes - Step by Step](https://dev.to/moe23/intro-to-kubernetes-step-by-step-3phf)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 [Visit my blog for more articles](https://dev.to/moe23)
