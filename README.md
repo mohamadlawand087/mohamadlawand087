@@ -18,7 +18,7 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Asp.Net Core 5 - Excel import and Export functionalities](https://www.youtube.com/watch?v=1y9GdiEoYxY)
-- [Asp.Net Core 5 - API Versioning](https://www.youtube.com/watch?v=Zvh-tVs50q4)
+- [Asp.Net Core 5 - Rest API Versioning](https://www.youtube.com/watch?v=Zvh-tVs50q4)
 - [Intro to Angular - Observables, Services, Nested Components - Part 2](https://www.youtube.com/watch?v=tS4SaUibVAA)
 - [Intro to Angular - Overview, Components, Services, Bindings - Part 1](https://www.youtube.com/watch?v=YcatzwXWQ64)
 - [Creating MicroService with .Net 5](https://www.youtube.com/watch?v=1gPz0G6GZCU)
