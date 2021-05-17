@@ -29,11 +29,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📖 Latest Article
 
 <!-- BLOG-POST-LIST:START -->
+- [C# 9 Language Highlights](https://dev.to/moe23/c-9-language-highlights-4mik)
 - [.Net 5 API with GraphQL - Step by Step](https://dev.to/moe23/net-5-api-with-graphql-step-by-step-2b20)
 - [AspNet Core 5 Reading and Exporting Excel](https://dev.to/moe23/aspnet-core-5-reading-and-exporting-excel-5de1)
 - [Asp.Net Core 5 - API Versioning](https://dev.to/moe23/asp-net-core-5-api-versioning-3jnp)
 - [Intro to Angular - Observables, Services, Nested Components](https://dev.to/moe23/intro-to-angular-observables-services-nested-components-2ao9)
-- [Intro to Angular - Part 1](https://dev.to/moe23/intro-to-angular-part-1-428o)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 [Visit my blog for more articles](https://dev.to/moe23)
