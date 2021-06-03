@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Full Course - Infrastructure as Code with Terraform, Azure DevOps, Azure, Github, Docker and .Net 5](https://www.youtube.com/watch?v=q4xNBqvD1uU)
 - [C# 9 Language Highlights](https://www.youtube.com/watch?v=G2q3j9cwqYI)
 - [.Net 5 with GraphQL - Step by Step](https://www.youtube.com/watch?v=IoLtrxw98So)
 - [Asp.Net Core 5 - Excel import and Export functionalities](https://www.youtube.com/watch?v=1y9GdiEoYxY)
 - [Asp.Net Core 5 - Rest API Versioning](https://www.youtube.com/watch?v=Zvh-tVs50q4)
-- [Intro to Angular - Observables, Services, Nested Components - Part 2](https://www.youtube.com/watch?v=tS4SaUibVAA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
