@@ -29,11 +29,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📖 Latest Article
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tips and Tricks - Part 2](https://dev.to/moe23/c-tips-and-tricks-part-1-2hm1)
 - [C# Tips and Tricks - Part 1](https://dev.to/moe23/c-tips-and-tricks-part-1-3jj9)
 - [Infrastructure as Code with Terraform, Azure DevOps, Azure, Github, Docker and .Net 5](https://dev.to/moe23/infrastructure-as-code-with-terraform-azure-devops-azure-github-docker-and-net-5-3304)
 - [C# 9 Language Highlights](https://dev.to/moe23/c-9-language-highlights-4mik)
 - [.Net 5 API with GraphQL - Step by Step](https://dev.to/moe23/net-5-api-with-graphql-step-by-step-2b20)
-- [AspNet Core 5 Reading and Exporting Excel](https://dev.to/moe23/aspnet-core-5-reading-and-exporting-excel-5de1)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 [Visit my blog for more articles](https://dev.to/moe23)
