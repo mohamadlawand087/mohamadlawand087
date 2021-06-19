@@ -29,11 +29,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📖 Latest Article
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tips and Tricks - Part 3](https://dev.to/moe23/c-tips-and-tricks-part-3-376h)
 - [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://dev.to/moe23/step-by-step-repository-pattern-and-unit-of-work-with-asp-net-core-5-3l92)
 - [C# Tips and Tricks - Part 2](https://dev.to/moe23/c-tips-and-tricks-part-1-2hm1)
 - [C# Tips and Tricks - Part 1](https://dev.to/moe23/c-tips-and-tricks-part-1-3jj9)
 - [Infrastructure as Code with Terraform, Azure DevOps, Azure, Github, Docker and .Net 5](https://dev.to/moe23/infrastructure-as-code-with-terraform-azure-devops-azure-github-docker-and-net-5-3304)
-- [C# 9 Language Highlights](https://dev.to/moe23/c-9-language-highlights-4mik)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 [Visit my blog for more articles](https://dev.to/moe23)
