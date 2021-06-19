@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Code Tips and Tricks - Episode 3 - Tuples / Value Equality](https://www.youtube.com/watch?v=tC_ilWPAh9Q)
 - [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://www.youtube.com/watch?v=-jcf1Qq8A-4)
 - [Code Tips and Tricks - Episode 2 - String interpolation / Discards](https://www.youtube.com/watch?v=xCFUXUlr8Ac)
 - [Code Tips and Tricks - Episode 1 - String interpolation / Discards](https://www.youtube.com/watch?v=JhHdd57c-lY)
 - [Full Course - Infrastructure as Code with Terraform, Azure DevOps, Azure, Github, Docker and .Net 5](https://www.youtube.com/watch?v=q4xNBqvD1uU)
-- [C# 9 Language Highlights](https://www.youtube.com/watch?v=G2q3j9cwqYI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
