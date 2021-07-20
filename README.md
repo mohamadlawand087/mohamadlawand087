@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Exploring Azure [EP 3]  - Azure Functions (Part 2)](https://www.youtube.com/watch?v=njJN3MfU218)
 - [Exploring Azure [EP 2]  - Azure Functions (Part 1)](https://www.youtube.com/watch?v=a4e1eh6MoSU)
 - [Exploring Azure [EP 1]  - General Overview](https://www.youtube.com/watch?v=0ZX76tr7myQ)
 - [Deep Dive: Multi-Factor Authentication with .NET 5](https://www.youtube.com/watch?v=sKjpLblZeDQ)
 - [Code Tips and Tricks - Episode 3 - Tuples / Value Equality](https://www.youtube.com/watch?v=tC_ilWPAh9Q)
-- [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://www.youtube.com/watch?v=-jcf1Qq8A-4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
