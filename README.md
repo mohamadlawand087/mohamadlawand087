@@ -29,11 +29,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📖 Latest Article
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Azure - Azure Functions Coding](https://dev.to/moe23/exploring-azure-azure-functions-coding-21gp)
+- [Exploring Azure - Azure Functions](https://dev.to/moe23/exploring-azure-azure-functions-45cg)
 - [Exploring Azure - Part 1](https://dev.to/moe23/exploring-azure-part-1-gmc)
 - [Deep Dive: Multi-Factor Authentication with .NET 5](https://dev.to/moe23/deep-dive-multi-factor-authentication-with-net-5-18mf)
 - [C# Tips and Tricks - Part 3](https://dev.to/moe23/c-tips-and-tricks-part-3-376h)
-- [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://dev.to/moe23/step-by-step-repository-pattern-and-unit-of-work-with-asp-net-core-5-3l92)
-- [C# Tips and Tricks - Part 2](https://dev.to/moe23/c-tips-and-tricks-part-1-2hm1)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 [Visit my blog for more articles](https://dev.to/moe23)
