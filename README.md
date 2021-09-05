@@ -29,11 +29,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📖 Latest Article
 
 <!-- BLOG-POST-LIST:START -->
+- [Middleware in ASP.NET Core](https://dev.to/moe23/middleware-in-asp-net-core-4408)
 - [AWS - Lambda Functions for dotnet developer (Part 1)](https://dev.to/moe23/aws-lambda-functions-for-dotnet-developer-part-1-1m91)
 - [C# 9 - Delegate, Action and Func](https://dev.to/moe23/c-9-delegate-action-and-func-13d7)
 - [Exploring Azure - Azure Functions Coding](https://dev.to/moe23/exploring-azure-azure-functions-coding-21gp)
 - [Exploring Azure - Azure Functions](https://dev.to/moe23/exploring-azure-azure-functions-45cg)
-- [Exploring Azure - Part 1](https://dev.to/moe23/exploring-azure-part-1-gmc)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 [Visit my blog for more articles](https://dev.to/moe23)
