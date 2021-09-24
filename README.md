@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [[EP 2] Creating an API - Code with me Asp.Net Core](https://www.youtube.com/watch?v=uSNqKQEtRdw)
 - [[EP 1] Creating an API - Code with me Asp.Net Core](https://www.youtube.com/watch?v=2UlQMx3DuV0)
 - [Asp.Net Core - Dependency Injection - Deep Dive [Audio Fixed]](https://www.youtube.com/watch?v=ORAfsRukNc4)
 - [Asp.Net Core - Dependency Injection - Deep Dive](https://www.youtube.com/watch?v=RTAwZbSmXVg)
 - [Asp.Net Core - Middleware](https://www.youtube.com/watch?v=vMkTQgAL6w0)
-- [AWS - Lambda Functions for dotnet developer (Part 1)](https://www.youtube.com/watch?v=EpEsjJzCakE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
