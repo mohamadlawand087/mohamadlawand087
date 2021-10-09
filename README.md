@@ -18,7 +18,7 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [[EP 3] Building an API - Adding JWT Authentication (Register, Login) and Authorisation](https://www.youtube.com/watch?v=oWPiBHh3eNc)
-- [[EP 2] Creating an API - Code with me Asp.Net Core](https://www.youtube.com/watch?v=uSNqKQEtRdw)
+- [[EP 2] Building an API - Adding Unit of Work, API Versioning](https://www.youtube.com/watch?v=uSNqKQEtRdw)
 - [[EP 1] Creating an API - Code with me Asp.Net Core](https://www.youtube.com/watch?v=2UlQMx3DuV0)
 - [Asp.Net Core - Dependency Injection - Deep Dive [Audio Fixed]](https://www.youtube.com/watch?v=ORAfsRukNc4)
 - [Asp.Net Core - Dependency Injection - Deep Dive](https://www.youtube.com/watch?v=RTAwZbSmXVg)
