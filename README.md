@@ -29,11 +29,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📖 Latest Article
 
 <!-- BLOG-POST-LIST:START -->
+- [Asp Net Core - Rest API Authorization with JWT (Roles Vs Claims Vs Policy) - Step by Step](https://dev.to/moe23/asp-net-core-rest-api-authorization-with-jwt-roles-vs-claims-vs-policy-step-by-step-5bgn)
 - [ASP.NET Dependency Injection](https://dev.to/moe23/asp-net-dependency-injection-273h)
 - [Middleware in ASP.NET Core](https://dev.to/moe23/middleware-in-asp-net-core-4408)
 - [AWS - Lambda Functions for dotnet developer (Part 1)](https://dev.to/moe23/aws-lambda-functions-for-dotnet-developer-part-1-1m91)
 - [C# 9 - Delegate, Action and Func](https://dev.to/moe23/c-9-delegate-action-and-func-13d7)
-- [Exploring Azure - Azure Functions Coding](https://dev.to/moe23/exploring-azure-azure-functions-coding-21gp)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 [Visit my blog for more articles](https://dev.to/moe23)
