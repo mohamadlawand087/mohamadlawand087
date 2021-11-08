@@ -19,8 +19,8 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [[EP 5] Building an API - Utilising JWT Tokens](https://www.youtube.com/watch?v=GmE_7wQ4Xwc)
 - [[EP 4] Building an API - Adding JWT Refresh Token](https://www.youtube.com/watch?v=z6gX8yC6AZk)
-- [Asp Net Core - Rest API Authorization with JWT (Roles Vs Claims Vs Policy) - Step by Step](https://www.youtube.com/watch?v=eVxzuOxWEiY)
-- [[EP 3] Building an API - Adding JWT Authentication (Register, Login) and Authorisation](https://www.youtube.com/watch?v=oWPiBHh3eNc)
+- [Asp Net Core - Rest API Authorization with JWT &lpar;Roles Vs Claims Vs Policy&rpar; - Step by Step](https://www.youtube.com/watch?v=eVxzuOxWEiY)
+- [[EP 3] Building an API - Adding JWT Authentication &lpar;Register, Login&rpar; and Authorisation](https://www.youtube.com/watch?v=oWPiBHh3eNc)
 - [[EP 2] Building an API - Adding Unit of Work, API Versioning](https://www.youtube.com/watch?v=uSNqKQEtRdw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
