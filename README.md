@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.Net on Docker - Live Talk](https://www.youtube.com/watch?v=x9lRkIwVEZE)
 - [[EP 6] Building an API - Upgrade from .Net 5 to .Net 6](https://www.youtube.com/watch?v=gbGS3K3NCMY)
 - [Getting started with Minimal APIs in .Net 6](https://www.youtube.com/watch?v=Ny2q79eD6OI)
 - [[EP 5] Building an API - Utilising JWT Tokens](https://www.youtube.com/watch?v=GmE_7wQ4Xwc)
 - [[EP 4] Building an API - Adding JWT Refresh Token](https://www.youtube.com/watch?v=z6gX8yC6AZk)
-- [Asp Net Core - Rest API Authorization with JWT &lpar;Roles Vs Claims Vs Policy&rpar; - Step by Step](https://www.youtube.com/watch?v=eVxzuOxWEiY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
