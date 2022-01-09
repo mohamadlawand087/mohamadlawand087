@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to be a Web Developer in 2022](https://www.youtube.com/watch?v=OXCO94ux3CU)
 - [[Docker Overview]- How to Push, Pull and Tag a Docker Image with Docker Hub](https://www.youtube.com/watch?v=YgE1eOBh2Qc)
 - [.Net 6 WebAPI - Intro to ElasticSearch &amp; Kibana  - Step by Step #aspnetcore](https://www.youtube.com/watch?v=5exN6nQ7558)
 - [[EP 7] Building an API - AutoMapper / Unified API Response / Db Entity](https://www.youtube.com/watch?v=jmHKWdMzihY)
 - [.Net on Docker - Live Talk](https://www.youtube.com/watch?v=x9lRkIwVEZE)
-- [[EP 6] Building an API - Upgrade from .Net 5 to .Net 6](https://www.youtube.com/watch?v=gbGS3K3NCMY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
