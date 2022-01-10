@@ -29,11 +29,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📖 Latest Article
 
 <!-- BLOG-POST-LIST:START -->
+- [How to be a Web Developer in 2022](https://dev.to/moe23/how-to-be-a-web-developer-in-2022-3pge)
 - [.Net 6 WebAPI - Intro to ElasticSearch &amp; Kibana  - Step by Step](https://dev.to/moe23/net-6-webapi-intro-to-elasticsearch-kibana-step-by-step-p9l)
 - [Add AutoMapper to .Net 6](https://dev.to/moe23/add-automapper-to-net-6-3fdn)
 - [Upgrade .Net 5 to .Net 6](https://dev.to/moe23/upgrade-net-5-to-net-6-n2c)
 - [Getting started with Minimal APIs in .Net 6](https://dev.to/moe23/getting-started-with-minimal-apis-in-net-6-4mi4)
-- [Asp Net Core - Rest API Authorization with JWT &lpar;Roles Vs Claims Vs Policy&rpar; - Step by Step](https://dev.to/moe23/asp-net-core-rest-api-authorization-with-jwt-roles-vs-claims-vs-policy-step-by-step-5bgn)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 [Visit my blog for more articles](https://dev.to/moe23)
