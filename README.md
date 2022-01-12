@@ -29,11 +29,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📖 Latest Article
 
 <!-- BLOG-POST-LIST:START -->
+- [Whats the difference between Args and Env in Docker](https://dev.to/moe23/whats-the-difference-between-args-and-env-in-docker-1d4c)
 - [How to be a Web Developer in 2022](https://dev.to/moe23/how-to-be-a-web-developer-in-2022-3pge)
 - [.Net 6 WebAPI - Intro to ElasticSearch &amp; Kibana  - Step by Step](https://dev.to/moe23/net-6-webapi-intro-to-elasticsearch-kibana-step-by-step-p9l)
 - [Add AutoMapper to .Net 6](https://dev.to/moe23/add-automapper-to-net-6-3fdn)
 - [Upgrade .Net 5 to .Net 6](https://dev.to/moe23/upgrade-net-5-to-net-6-n2c)
-- [Getting started with Minimal APIs in .Net 6](https://dev.to/moe23/getting-started-with-minimal-apis-in-net-6-4mi4)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 [Visit my blog for more articles](https://dev.to/moe23)
