@@ -29,7 +29,7 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📖 Latest Article
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Unit Test with .Net 6 with xUnit and MOQ](https://dev.to/moe23/learn-unit-test-with-net-6-with-xunit-and-moq-k9i)
+- [Unit Test with .Net 6 with xUnit and MOQ](https://dev.to/moe23/learn-unit-test-with-net-6-with-xunit-and-moq-k9i)
 - [Whats the difference between Args and Env in Docker](https://dev.to/moe23/whats-the-difference-between-args-and-env-in-docker-1d4c)
 - [How to be a Web Developer in 2022](https://dev.to/moe23/how-to-be-a-web-developer-in-2022-3pge)
 - [.Net 6 WebAPI - Intro to ElasticSearch &amp; Kibana  - Step by Step](https://dev.to/moe23/net-6-webapi-intro-to-elasticsearch-kibana-step-by-step-p9l)
