@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Azure Resource Group #shorts](https://www.youtube.com/watch?v=-0rBzqXGuJU)
 - [[EP 8] Building an API - IaC / Terraform / Docker / Azure](https://www.youtube.com/watch?v=TloVVlIkrDs)
 - [.Net Swag #shorts](https://www.youtube.com/watch?v=rVEao81uEqw)
 - [.Net 6 WebAPI - Intro to ElasticSearch - Step by Step #aspnetcore](https://www.youtube.com/watch?v=oPxoQKdC8sI)
 - [Quick overview of Minimal API, JWT #shorts](https://www.youtube.com/watch?v=r-JGQFTpnjQ)
-- [.Net 6 Minimal Api Authentication &lpar;JWT&rpar; with Swagger and Open API](https://www.youtube.com/watch?v=BH-xCMDpu6o)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
