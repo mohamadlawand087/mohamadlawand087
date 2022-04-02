@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.Net 7 - C# 11 &lpar;Preview 2&rpar; - New features](https://www.youtube.com/watch?v=f861-zlxDQM)
 - [What is AWS IAM #shorts](https://www.youtube.com/watch?v=yjtcnDmAXpg)
 - [What is gRPC? #shorts](https://www.youtube.com/watch?v=yz-mUV2Vzsc)
 - [ImageSharp Update by SixLabors #shorts](https://www.youtube.com/watch?v=VQhIU2dYBTo)
 - [Create an iOS app with TableView for .Net 6 API](https://www.youtube.com/watch?v=XHXXEj9bSdE)
-- [What is Azure Functions #shorts](https://www.youtube.com/watch?v=nmGcz1Y1ZaY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
