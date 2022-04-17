@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [AWS Fargate #shorts](https://www.youtube.com/watch?v=U4s04xl7rU0)
 - [What is AWS ECR #shorts](https://www.youtube.com/watch?v=P0QGZJ52c0E)
 - [My first iOS App - Learning Journey](https://www.youtube.com/watch?v=hLz5yhfM57I)
 - [.Net 7 - C# 11 &lpar;Preview 2&rpar; - New features](https://www.youtube.com/watch?v=f861-zlxDQM)
 - [What is AWS IAM #shorts](https://www.youtube.com/watch?v=yjtcnDmAXpg)
-- [What is gRPC? #shorts](https://www.youtube.com/watch?v=yz-mUV2Vzsc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
