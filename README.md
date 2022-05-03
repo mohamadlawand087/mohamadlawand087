@@ -29,11 +29,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📖 Latest Article
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Minimal API with HereDoc and Docker](https://dev.to/moe23/build-a-minimal-api-with-heredoc-and-docker-17h)
 - [.Net 6 - Create Image Processing with Azure Functions &amp; Service Bus](https://dev.to/moe23/net-6-create-image-processing-with-azure-functions-service-bus-4a75)
 - [.Net 6 WebAPI - Intro to ElasticSearch - Step by Step #aspnetcore](https://dev.to/moe23/net-6-webapi-intro-to-elasticsearch-step-by-step-aspnetcore-2af2)
 - [.Net 6 Minimal Api Authentication &lpar;JWT&rpar; with Swagger and Open API](https://dev.to/moe23/net-6-minimal-api-authentication-jwt-with-swagger-and-open-api-2chh)
 - [Unit Test with .Net 6 with xUnit and MOQ](https://dev.to/moe23/learn-unit-test-with-net-6-with-xunit-and-moq-k9i)
-- [Whats the difference between Args and Env in Docker](https://dev.to/moe23/whats-the-difference-between-args-and-env-in-docker-1d4c)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 [Visit my blog for more articles](https://dev.to/moe23)
