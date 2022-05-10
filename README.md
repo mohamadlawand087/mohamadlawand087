@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Code With Me](https://www.youtube.com/watch?v=_EMgZwWhSlI)
 - [Host Static Website for Free with Azure Static Website with custom domains](https://www.youtube.com/watch?v=aDXnWLWdH3o)
 - [Build a Minimal API with HereDoc and Docker](https://www.youtube.com/watch?v=xo4eSOhHRaI)
 - [AWS Fargate #shorts](https://www.youtube.com/watch?v=U4s04xl7rU0)
 - [What is AWS ECR #shorts](https://www.youtube.com/watch?v=P0QGZJ52c0E)
+- [My first iOS App - Learning Journey](https://www.youtube.com/watch?v=hLz5yhfM57I)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
