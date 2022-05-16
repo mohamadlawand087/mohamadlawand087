@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [AWS - The Least Privilege Principle #shorts](https://www.youtube.com/watch?v=wM2bEbYOmGU)
 - [Team 44 Released on #ios &lpar;App overview&rpar;](https://www.youtube.com/watch?v=MvwG7ppgGiE)
 - [EP1 - AWS Fundamentals - AWS Certified Solutions Architect](https://www.youtube.com/watch?v=kQKwrNUr3mI)
 - [AWS Region VS Availability Zone VS Edge Location #shorts](https://www.youtube.com/watch?v=1W68PKQUXZw)
 - [Code With Me](https://www.youtube.com/watch?v=_EMgZwWhSlI)
-- [Host Static Website for Free with Azure Static Website with custom domains](https://www.youtube.com/watch?v=aDXnWLWdH3o)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
