@@ -17,7 +17,7 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [EP2 - What is AWS IAM?](https://www.youtube.com/watch?v=-oy_mX9WSuc)
+- [What is AWS IAM? - EP2](https://www.youtube.com/watch?v=-oy_mX9WSuc)
 - [AWS - The Least Privilege Principle #shorts](https://www.youtube.com/watch?v=wM2bEbYOmGU)
 - [Team 44 Released on #ios &lpar;App overview&rpar;](https://www.youtube.com/watch?v=MvwG7ppgGiE)
 - [EP1 - AWS Fundamentals - AWS Certified Solutions Architect](https://www.youtube.com/watch?v=kQKwrNUr3mI)
