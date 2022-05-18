@@ -29,11 +29,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📖 Latest Article
 
 <!-- BLOG-POST-LIST:START -->
+- [What is AWS IAM?](https://dev.to/moe23/what-is-aws-iam-2ke8)
 - [AWS Fundamentals](https://dev.to/moe23/aws-fundamentals-17gh)
 - [Build a Minimal API with HereDoc and Docker](https://dev.to/moe23/build-a-minimal-api-with-heredoc-and-docker-17h)
 - [.Net 6 - Create Image Processing with Azure Functions &amp; Service Bus](https://dev.to/moe23/net-6-create-image-processing-with-azure-functions-service-bus-4a75)
 - [.Net 6 WebAPI - Intro to ElasticSearch - Step by Step #aspnetcore](https://dev.to/moe23/net-6-webapi-intro-to-elasticsearch-step-by-step-aspnetcore-2af2)
-- [.Net 6 Minimal Api Authentication &lpar;JWT&rpar; with Swagger and Open API](https://dev.to/moe23/net-6-minimal-api-authentication-jwt-with-swagger-and-open-api-2chh)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 [Visit my blog for more articles](https://dev.to/moe23)
