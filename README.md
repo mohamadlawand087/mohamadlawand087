@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [S3 Object Deletion #shorts](https://www.youtube.com/watch?v=rJQ3dp04cI8)
 - [.Net 7 &lpar;Preview 4&rpar; - Minimal API Filters](https://www.youtube.com/watch?v=iA_pot-fkIw)
 - [AWS - S3 Lifecycle Management #shorts](https://www.youtube.com/watch?v=nS5iV2hiBn0)
 - [What is AWS IAM? - EP2](https://www.youtube.com/watch?v=-oy_mX9WSuc)
 - [AWS - The Least Privilege Principle #shorts](https://www.youtube.com/watch?v=wM2bEbYOmGU)
-- [Team 44 Released on #ios &lpar;App overview&rpar;](https://www.youtube.com/watch?v=MvwG7ppgGiE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
