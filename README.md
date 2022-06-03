@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.Net 6 WebAPI - Intro to AWS S3  - Step by Step #aspnetcore](https://www.youtube.com/watch?v=6lRdUcbRZ0w)
 - [.Net 7 &lpar;Preview 4&rpar; - Minimal API - Multiple Result Type - Route Groups](https://www.youtube.com/watch?v=YwQVaJFdT5M)
 - [S3 Object Deletion #shorts](https://www.youtube.com/watch?v=rJQ3dp04cI8)
 - [.Net 7 &lpar;Preview 4&rpar; - Minimal API Filters](https://www.youtube.com/watch?v=iA_pot-fkIw)
 - [AWS - S3 Lifecycle Management #shorts](https://www.youtube.com/watch?v=nS5iV2hiBn0)
-- [What is AWS IAM? - EP2](https://www.youtube.com/watch?v=-oy_mX9WSuc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
