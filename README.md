@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Understanding Web Authentication: Cookies vs. Tokens](https://www.youtube.com/watch?v=j5nqmrxYEu8)
 - [Build CRUD with .NET 6 Web API &amp; Entity Framework Core](https://www.youtube.com/watch?v=wtFs4356xp4)
 - [.Net 6 WebAPI - Upload files to AWS S3  - Step by Step](https://www.youtube.com/watch?v=6lRdUcbRZ0w)
 - [.Net 7 &lpar;Preview 4&rpar; - Minimal API - Multiple Result Type - Route Groups](https://www.youtube.com/watch?v=YwQVaJFdT5M)
 - [S3 Object Deletion #shorts](https://www.youtube.com/watch?v=rJQ3dp04cI8)
-- [.Net 7 &lpar;Preview 4&rpar; - Minimal API Filters](https://www.youtube.com/watch?v=iA_pot-fkIw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
