@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [User Registration - Verify/Confirm Email with a .NET 6 Web API](https://www.youtube.com/watch?v=euDyxWDgSUU)
 - [.NET 6 Web API Create JSON Web Tokens &lpar;JWT&rpar; - User Registration / Login / Authentication](https://www.youtube.com/watch?v=Y-MjCw6thao)
 - [Understanding Web Authentication: Cookies vs. Tokens](https://www.youtube.com/watch?v=j5nqmrxYEu8)
 - [Build CRUD with .NET 6 Web API &amp; Entity Framework Core](https://www.youtube.com/watch?v=wtFs4356xp4)
 - [.Net 6 WebAPI - Upload files to AWS S3  - Step by Step](https://www.youtube.com/watch?v=6lRdUcbRZ0w)
-- [.Net 7 &lpar;Preview 4&rpar; - Minimal API - Multiple Result Type - Route Groups](https://www.youtube.com/watch?v=YwQVaJFdT5M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
