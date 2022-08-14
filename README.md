@@ -29,11 +29,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📖 Latest Article
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET 6 with PostgreSQL](https://dev.to/moe23/net-6-with-postgresql-576a)
 - [.Net 6 WebAPI - Upload files to AWS S3 - Step by Step](https://dev.to/moe23/net-6-webapi-upload-files-to-aws-s3-step-by-step-414j)
 - [.Net 7 &lpar;Preview 4&rpar; - Minimal API - Multiple Result Type - Route Groups](https://dev.to/moe23/net-7-preview-4-minimal-api-multiple-result-type-route-groups-3k74)
 - [.Net 7 &lpar;Preview 4&rpar; - Minimal API Filters](https://dev.to/moe23/net-7-preview-4-minimal-api-filters-1812)
 - [What is AWS IAM?](https://dev.to/moe23/what-is-aws-iam-2ke8)
-- [AWS Fundamentals](https://dev.to/moe23/aws-fundamentals-17gh)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 [Visit my blog for more articles](https://dev.to/moe23)
