@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [.NET 6 WebAPI with PostgreSQL and EF Core](https://www.youtube.com/watch?v=FoYsxFBY1os)
+- [.NET 6 Advance PostgreSQL and EF Core](https://www.youtube.com/watch?v=ApZSICk99RA)
+- [.NET 6 PostgreSQL and EF Core](https://www.youtube.com/watch?v=FoYsxFBY1os)
 - [.NET 6 Web API Create Refresh Tokens - JSON Web Tokens &lpar;JWT&rpar;](https://www.youtube.com/watch?v=2_H0Zj-C8EM)
 - [User Registration - Verify/Confirm Email with a .NET 6 Web API](https://www.youtube.com/watch?v=euDyxWDgSUU)
 - [.NET 6 Web API Create JSON Web Tokens &lpar;JWT&rpar; - User Registration / Login / Authentication](https://www.youtube.com/watch?v=Y-MjCw6thao)
-- [Understanding Web Authentication: Cookies vs. Tokens](https://www.youtube.com/watch?v=j5nqmrxYEu8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
