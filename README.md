@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 6 - Web API Correlation Id 🔗](https://www.youtube.com/watch?v=y0CQmwRllvQ)
 - [How to set up a M1 MacBook Pro for Development.](https://www.youtube.com/watch?v=HFPRL-OZDK8)
 - [.NET 6 Advance PostgreSQL and EF Core](https://www.youtube.com/watch?v=ApZSICk99RA)
 - [.NET 6 PostgreSQL and EF Core](https://www.youtube.com/watch?v=FoYsxFBY1os)
 - [.NET 6 Web API Create Refresh Tokens - JSON Web Tokens &lpar;JWT&rpar;](https://www.youtube.com/watch?v=2_H0Zj-C8EM)
-- [User Registration - Verify/Confirm Email with a .NET 6 Web API](https://www.youtube.com/watch?v=euDyxWDgSUU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
