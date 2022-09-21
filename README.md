@@ -17,7 +17,7 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [.NET 6 - Web API Global Errors 🌐 ❌](https://www.youtube.com/watch?v=fBXOgrZ3ZC4)
+- [.NET 6 - Web API Global Exceptions Handling 🌐 ❌](https://www.youtube.com/watch?v=fBXOgrZ3ZC4)
 - [.NET 6 - Web API Logging 📝](https://www.youtube.com/watch?v=LO-QKMHK5ps)
 - [.NET 6 - Web API Correlation Id 🔗](https://www.youtube.com/watch?v=y0CQmwRllvQ)
 - [Setting up a M1 MacBook Pro for Development.](https://www.youtube.com/watch?v=HFPRL-OZDK8)
