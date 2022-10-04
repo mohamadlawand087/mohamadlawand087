@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 6 - Web API Caching with Redis ⏲🌐](https://www.youtube.com/watch?v=6HZVu3kGOrg)
 - [.NET 6 - Web API Global Exceptions Handling 🌐 ❌](https://www.youtube.com/watch?v=fBXOgrZ3ZC4)
 - [.NET 6 - Web API Logging 📝](https://www.youtube.com/watch?v=LO-QKMHK5ps)
 - [.NET 6 - Web API Correlation Id 🔗](https://www.youtube.com/watch?v=y0CQmwRllvQ)
 - [Setting up a M1 MacBook Pro for Development.](https://www.youtube.com/watch?v=HFPRL-OZDK8)
-- [.NET 6 Advance PostgreSQL and EF Core](https://www.youtube.com/watch?v=ApZSICk99RA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
