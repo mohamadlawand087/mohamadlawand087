@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 7 - Build CRUD with  Web API / EF Core / Repository Pattern 📚📚📚](https://www.youtube.com/watch?v=nIOqO5N2_ss)
 - [dotnet 7 release #shorts](https://www.youtube.com/watch?v=VbQYGWWRgEU)
 - [.NET 6 - Message Broker with RabbitMQ 🐰🐰🐰](https://www.youtube.com/watch?v=eEipVEq8F1k)
 - [.NET 6 - Background Jobs with Hangfire 🔥🔥🔥](https://www.youtube.com/watch?v=Xafuut_KAB0)
 - [.NET 6 - AutoMapper &amp; Data Transfer Objects &lpar;DTOs&rpar; 🗺](https://www.youtube.com/watch?v=Wm7hN0S-AdU)
-- [.NET 6 - Web API Caching with Redis ⏲🌐](https://www.youtube.com/watch?v=6HZVu3kGOrg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
