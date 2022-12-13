@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [A.I. Writing .NET C# Code - ChatGPT](https://www.youtube.com/watch?v=_X0-RE8c-yU)
 - [.NET 7 💥 - Minimal APIs &amp; SQLITE 📚📚](https://www.youtube.com/watch?v=OpS_0KdA3Yk)
 - [.NET 7 - Minimal APIs - New Features 🤓🤓🤓](https://www.youtube.com/watch?v=k14RUrby-cE)
 - [.NET 7 - Build CRUD with  Web API / EF Core / Repository Pattern 📚📚📚](https://www.youtube.com/watch?v=nIOqO5N2_ss)
 - [dotnet 7 release #shorts](https://www.youtube.com/watch?v=VbQYGWWRgEU)
-- [.NET 6 - Message Broker with RabbitMQ 🐰🐰🐰](https://www.youtube.com/watch?v=eEipVEq8F1k)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
