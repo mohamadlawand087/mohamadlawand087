@@ -17,7 +17,7 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [v3](https://www.youtube.com/watch?v=9ZEbJT36-Uk)
+- [.NET 7 💥 -- How to containerise Web API with Docker &amp; use PostgreSQL](https://www.youtube.com/watch?v=9ZEbJT36-Uk)
 - [.NET 7 💥 - Health Checks ⛑🚑🚑](https://www.youtube.com/watch?v=MMk3V58pNIw)
 - [.NET 7 💥 - With MongoDB 📚📚📚](https://www.youtube.com/watch?v=7NN6xR_Pfx4)
 - [.NET 7 💥 - URL Shortener 🌐🌐🌐](https://www.youtube.com/watch?v=WIWfNCoDiu0)
