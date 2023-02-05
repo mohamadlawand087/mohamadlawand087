@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 7  💥 - Polly 🐦 Fault Handling / Resiliency  / Retry Policy / Circuit Breaker](https://www.youtube.com/watch?v=_Q3dTJJgICs)
 - [.NET 7 💥 -- How to containerise Web API with Docker &amp; use PostgreSQL](https://www.youtube.com/watch?v=9ZEbJT36-Uk)
 - [.NET 7 💥 - Health Checks ⛑🚑🚑](https://www.youtube.com/watch?v=MMk3V58pNIw)
 - [.NET 7 💥 - With MongoDB 📚📚📚](https://www.youtube.com/watch?v=7NN6xR_Pfx4)
 - [.NET 7 💥 - URL Shortener 🌐🌐🌐](https://www.youtube.com/watch?v=WIWfNCoDiu0)
-- [A.I. Writing .NET C# Code - ChatGPT](https://www.youtube.com/watch?v=_X0-RE8c-yU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
