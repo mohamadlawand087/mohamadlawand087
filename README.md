@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 7  💥  - ASP.NET Core Web API Rate Limiting](https://www.youtube.com/watch?v=bOfOo3Zsfx0)
 - [.NET 7  💥  - ASP.NET Core Web API Filters](https://www.youtube.com/watch?v=jQFi4NZGb9M)
 - [.NET 7  💥 -  Blazor CRUD with Web API](https://www.youtube.com/watch?v=Ki53HNV613g)
 - [.NET 7 💥 - ASP.NET Core Web API In-Memory Caching  ⏲🌐](https://www.youtube.com/watch?v=GkLdufOVXjI)
 - [.NET 7  💥 - Upload API to Azure Container Service](https://www.youtube.com/watch?v=kb6v24isc7Q)
-- [.NET 7  💥 - Polly 🐦 Fault Handling / Resiliency  / Retry Policy / Circuit Breaker](https://www.youtube.com/watch?v=_Q3dTJJgICs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
