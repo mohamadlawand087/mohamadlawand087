@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [AWS S3 #shorts](https://www.youtube.com/watch?v=VD7p0_atQAc)
 - [.NET 7  💥  - Deploy .NET Apps to Kubernetes](https://www.youtube.com/watch?v=x9NptrXA1dM)
 - [What is AWS EC2 #shorts](https://www.youtube.com/watch?v=5wfulZC5-rk)
 - [.NET 7  💥  - ASP.NET Core Web API Versioning](https://www.youtube.com/watch?v=uRreH0HY7EQ)
 - [.NET 7  💥  - ASP.NET Core Web API Rate Limiting](https://www.youtube.com/watch?v=bOfOo3Zsfx0)
-- [.NET 7  💥  - ASP.NET Core Web API Filters](https://www.youtube.com/watch?v=jQFi4NZGb9M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
