@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [What is a Kubernetes Control Plane Components? #shorts](https://www.youtube.com/watch?v=Ag6ydstFVmg)
+- [What are Kubernetes Nodes Components? #shorts](https://www.youtube.com/watch?v=ml4REQbV1jE)
+- [What are Kubernetes Control Plane Components? #shorts](https://www.youtube.com/watch?v=Ag6ydstFVmg)
 - [IaaC - Create full infrastructure on AWS with Terraform](https://www.youtube.com/watch?v=hw3uWq4FPhU)
 - [What is a Kubernetes Cluster? #shorts](https://www.youtube.com/watch?v=E0i78m5zY5g)
 - [AWS S3 #shorts](https://www.youtube.com/watch?v=VD7p0_atQAc)
-- [.NET 7  💥  - Deploy .NET Apps to Kubernetes](https://www.youtube.com/watch?v=x9NptrXA1dM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
