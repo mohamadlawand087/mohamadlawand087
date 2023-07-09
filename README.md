@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 7  💥 - AWS SQS](https://www.youtube.com/watch?v=3tua8d9_t5k)
 - [.NET 7  💥 - Angular Authentication  with JWT &lpar;JSON WEB TOKEN&rpar;](https://www.youtube.com/watch?v=9IBNIbgMGdM)
 - [.NET 7  💥 - CRUD with Angular &amp; .NET Web API, EF Core &amp; MongoDb](https://www.youtube.com/watch?v=f11nTH3kFHg)
 - [.NET 7  💥  - ASP.NET Core ElasticSearch, Kibana &amp; Serilog Integration](https://www.youtube.com/watch?v=zp6A5QCW_II)
 - [.NET 7  💥  - Integrate OpenAI ChatGPT with Web API](https://www.youtube.com/watch?v=EHPPg5HGVxU)
-- [Kubernetes - Create your own k8s cluster step by step](https://www.youtube.com/watch?v=k3iexxiYPI8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
