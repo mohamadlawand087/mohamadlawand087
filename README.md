@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GIT - Getting Started](https://www.youtube.com/watch?v=tvaB7odbry0)
 - [Setting Up a Windows PC For Web Development: WSL, Git, Visual Studio, Oh My Zsh, etc](https://www.youtube.com/watch?v=3_hvqNOyJ8Y)
 - [What is AWS SQS #shorts](https://www.youtube.com/watch?v=-O_ZLaYgOPk)
 - [.NET 7  💥 - AWS SQS](https://www.youtube.com/watch?v=3tua8d9_t5k)
 - [.NET 7  💥 - Angular Authentication  with JWT &lpar;JSON WEB TOKEN&rpar;](https://www.youtube.com/watch?v=9IBNIbgMGdM)
-- [.NET 7  💥 - CRUD with Angular &amp; .NET Web API, EF Core &amp; MongoDb](https://www.youtube.com/watch?v=f11nTH3kFHg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
