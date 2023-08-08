@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Why do we need containers? #shorts](https://www.youtube.com/watch?v=Lf6BxOuQIBk)
 - [What is GIT? #shorts](https://www.youtube.com/watch?v=Hp-_sxO3s6U)
 - [GIT - Getting Started](https://www.youtube.com/watch?v=tvaB7odbry0)
 - [Setting Up a Windows PC For Web Development: WSL, Git, Visual Studio, Oh My Zsh, etc](https://www.youtube.com/watch?v=3_hvqNOyJ8Y)
 - [What is AWS SQS #shorts](https://www.youtube.com/watch?v=-O_ZLaYgOPk)
-- [.NET 7  💥 - AWS SQS](https://www.youtube.com/watch?v=3tua8d9_t5k)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
