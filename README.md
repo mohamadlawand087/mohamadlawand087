@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is Infrastructure as Code? #shorts #aws](https://www.youtube.com/watch?v=wFMeqyuqFcM)
 - [Why do we need container registries? #shorts](https://www.youtube.com/watch?v=MrwyRTZI6WA)
 - [Why do we need containers? #shorts](https://www.youtube.com/watch?v=Lf6BxOuQIBk)
 - [What is GIT? #shorts](https://www.youtube.com/watch?v=Hp-_sxO3s6U)
 - [GIT - Getting Started](https://www.youtube.com/watch?v=tvaB7odbry0)
-- [Setting Up a Windows PC For Web Development: WSL, Git, Visual Studio, Oh My Zsh, etc](https://www.youtube.com/watch?v=3_hvqNOyJ8Y)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
