@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is Chaos Testing? #shorts #microservices](https://www.youtube.com/watch?v=NNNfED-9G7Q)
 - [What is Circuit Breaker Design Pattern? #shorts #microservices](https://www.youtube.com/watch?v=Rr3nhxWwQGs)
 - [What is Infrastructure as Code? #shorts #aws](https://www.youtube.com/watch?v=wFMeqyuqFcM)
 - [Why do we need container registries? #shorts](https://www.youtube.com/watch?v=MrwyRTZI6WA)
 - [Why do we need containers? #shorts](https://www.youtube.com/watch?v=Lf6BxOuQIBk)
-- [What is GIT? #shorts](https://www.youtube.com/watch?v=Hp-_sxO3s6U)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
