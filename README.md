@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 7  💥  - Intro to CQRS and MediatR with ASP.NET Core Web Api](https://www.youtube.com/watch?v=sUjNZAYTZwI)
 - [.NET 7  💥  - ASP.NET Core Web Api CRUD, Repository Pattern, SQLite &amp; Automapper](https://www.youtube.com/watch?v=NNiupSwiVfg)
 - [What is Chaos Testing? #shorts #microservices](https://www.youtube.com/watch?v=NNNfED-9G7Q)
 - [What is Circuit Breaker Design Pattern? #shorts #microservices](https://www.youtube.com/watch?v=Rr3nhxWwQGs)
 - [What is Infrastructure as Code? #shorts #aws](https://www.youtube.com/watch?v=wFMeqyuqFcM)
-- [Why do we need container registries? #shorts](https://www.youtube.com/watch?v=MrwyRTZI6WA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
