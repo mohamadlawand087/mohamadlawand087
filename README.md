@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [SNS &amp; SQS Simplified #shorts](https://www.youtube.com/watch?v=O0iamMTbKlQ)
 - [What is Kubernetes? #shorts #microservices](https://www.youtube.com/watch?v=LUPbQpdcmis)
 - [.NET 7  💥  - Intro to MicroService Resiliency Circuit Breaker Pattern with ASP.NET &amp; Polly 🐤🎛️🐤🎛️](https://www.youtube.com/watch?v=009yRRjZzpk)
 - [.NET 7  💥  - Intro to Background Services &lpar;Hangfire&rpar; with ASP.NET Core Web Api  🔥🔥🔥🔥🔥🔥](https://www.youtube.com/watch?v=cvpSx10z5Og)
 - [What are Azure Container Apps? #shorts](https://www.youtube.com/watch?v=pmYDMEWtqDg)
-- [Background Services in .NET #shorts #hangfire](https://www.youtube.com/watch?v=PkDdUeHV0OU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
