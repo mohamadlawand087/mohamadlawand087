@@ -17,7 +17,7 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [.NET 7  💥  - DynamoDB integration with ASP.NET Web API 📚📚📚 ⚡️#aws #dynamodb #dotnet](https://www.youtube.com/watch?v=SO66I5zoFko)
+- [Seamless Sync: Mastering AWS DynamoDB Integrations with ASP.NET Core](https://www.youtube.com/watch?v=SO66I5zoFko)
 - [🔥 AWS vs Azure: Ultimate Microservices Battle! Who Wins? 🚀 #shorts](https://www.youtube.com/watch?v=sF9jsWkZ9HI)
 - [Why Containers are trendy ? #shorts](https://www.youtube.com/watch?v=WYWWvfg9V7I)
 - [SNS &amp; SQS Simplified #shorts](https://www.youtube.com/watch?v=O0iamMTbKlQ)
