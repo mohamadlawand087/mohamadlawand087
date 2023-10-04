@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [🔥 AWS vs Azure: Ultimate Microservices Battle! Who Wins? 🚀 #shorts](https://www.youtube.com/watch?v=sF9jsWkZ9HI)
 - [Why Containers are trendy ? #shorts](https://www.youtube.com/watch?v=WYWWvfg9V7I)
 - [SNS &amp; SQS Simplified #shorts](https://www.youtube.com/watch?v=O0iamMTbKlQ)
 - [What is Kubernetes? #shorts #microservices](https://www.youtube.com/watch?v=LUPbQpdcmis)
 - [.NET 7  💥  - Intro to MicroService Resiliency Circuit Breaker Pattern with ASP.NET &amp; Polly 🐤🎛️🐤🎛️](https://www.youtube.com/watch?v=009yRRjZzpk)
-- [.NET 7  💥  - Intro to Background Services &lpar;Hangfire&rpar; with ASP.NET Core Web Api  🔥🔥🔥🔥🔥🔥](https://www.youtube.com/watch?v=cvpSx10z5Og)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
