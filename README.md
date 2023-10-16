@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Deep Dive: .NET Microservices Architecture on Cloud ☁️ ☁️ 🖥️ #shorts](https://www.youtube.com/watch?v=l8fnAQtWlgc)
 - [.NET 🚀🔥 : Mastering EF Core Performance: Tips, Tricks, and Best Practices](https://www.youtube.com/watch?v=FMhhp56qCAQ)
 - [Unlocking CI/CD for .NET Apps on Cloud #shorts](https://www.youtube.com/watch?v=QGwkiWMSuM0)
 - [Serverless for .NET Developers: Intro to Lambda &amp; Azure Functions 🖥️✨ #shorts](https://www.youtube.com/watch?v=zlkBCHcZLBQ)
 - [🚀 Top 5 AWS Services Every .NET Developer Must Know! Unlock Your Project&#39;s Potential! 💻 #shorts](https://www.youtube.com/watch?v=OdezmmaT6eM)
-- [.NET 7  💥: Mastering AWS DynamoDB Integrations with ASP.NET Core](https://www.youtube.com/watch?v=SO66I5zoFko)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
