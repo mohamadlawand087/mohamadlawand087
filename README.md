@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [API Authorisation Simplified #shorts](https://www.youtube.com/watch?v=NvMxQBcWPYs)
 - [.NET 🚀🔥 : API Security: A Comprehensive Guide to Safeguarding Your APIs with API Keys](https://www.youtube.com/watch?v=XabkK84CKI8)
 - [Getting Started with .NET APIs #shorts](https://www.youtube.com/watch?v=5hEFRTVt9xY)
 - [Deep Dive: .NET Microservices Architecture on Cloud ☁️ ☁️ 🖥️ #shorts](https://www.youtube.com/watch?v=l8fnAQtWlgc)
 - [.NET 🚀🔥 : Mastering EF Core Performance: Tips, Tricks, and Best Practices](https://www.youtube.com/watch?v=FMhhp56qCAQ)
-- [Unlocking CI/CD for .NET Apps on Cloud #shorts](https://www.youtube.com/watch?v=QGwkiWMSuM0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
