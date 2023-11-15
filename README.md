@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Unleashing .NET 8: A Revolution in Performance, Security, and Development #shorts](https://www.youtube.com/watch?v=dhUo_-WMeKE)
 - [Middleware Magic: the Power of .NET in Your Applications #shorts](https://www.youtube.com/watch?v=hF-4bPa96b8)
 - [.NET 🚀🔥 : Mastering .NET Development with TDD  with XUNIT ✅❌✅❌✅❌](https://www.youtube.com/watch?v=7YghGdGE7d0)
 - [API Evolution: API Versioning in .NET for Seamless Service Upgrades #shorts](https://www.youtube.com/watch?v=fuTxV5Ad2sM)
 - [API Authorisation Simplified #shorts](https://www.youtube.com/watch?v=NvMxQBcWPYs)
-- [.NET 🚀🔥 : API Security: A Comprehensive Guide to Safeguarding Your APIs with API Keys](https://www.youtube.com/watch?v=XabkK84CKI8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
