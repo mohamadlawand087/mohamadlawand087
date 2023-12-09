@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Unleashing AI Potential with ML.NET: An intro to .NET&#39;s Machine Learning #shorts 🖥️✨](https://www.youtube.com/watch?v=S7-FGfzFWNg)
 - [.NET 🚀🔥 : Seamless Messaging in .NET: Integrating MassTransit with RabbitMQ for Robust Systems!](https://www.youtube.com/watch?v=MiFpExkKRgA)
 - [Entity Framework Core 8 new speedy features 🚀🚀🚀  #shorts](https://www.youtube.com/watch?v=gzrQqD4XVRo)
 - [.NET 🚀🔥 : New Features of .NET 8 Unveiled 🔥🔥🔥](https://www.youtube.com/watch?v=2PE892d6tZE)
 - [ASP.NET Core - The Speed Factor #shorts](https://www.youtube.com/watch?v=gcYOz-2Blpc)
-- [Revolutionize Cloud Development with .NET Aspire - Your Gateway to the Future #shorts](https://www.youtube.com/watch?v=WkJo7zEAgXs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
