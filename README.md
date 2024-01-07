@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 8 🔥🚀 : Exploring Dependency Injection Features](https://www.youtube.com/watch?v=10kCqQWJmQM)
 - [.NET 8  .🚀🔥:  Integrating Docker with a .NET Web API - A Step-by-Step Guide](https://www.youtube.com/watch?v=_wp2zJHs9l0)
 - [.NET 8  .🚀🔥:  Exploring .NET Aspire Preview 2: New Features Walkthrough &amp; Upgrade Guide](https://www.youtube.com/watch?v=ike-i4y4cQs)
 - [.NET 8  .🚀🔥:  Understanding CORS with ASP.NET](https://www.youtube.com/watch?v=WAKsZwzXhf4)
 - [2024 Tech Trends 🚀🔥: What I&#39;m Learning This Year](https://www.youtube.com/watch?v=9aDVGZUt4SQ)
-- [.NET 8  .🚀🔥:  Building a Real-Time Chat App with .NET SignalR and React A Step by Step Tutorial](https://www.youtube.com/watch?v=pvi_ZS_PrSc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
