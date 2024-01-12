@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 8 🔥🚀 : Guide to Secure User Authentication - Exploring Identity new Features](https://www.youtube.com/watch?v=ORzt0lks2H4)
 - [.NET  🔥🚀 Unlock Hidden C# Powers:  Code Like a Pro!&quot;](https://www.youtube.com/watch?v=0wTiFghrwRc)
 - [.NET 8 🔥🚀 : Boost .NET API Performance](https://www.youtube.com/watch?v=l6CrNTH6OOU)
 - [Understanding API Rate Limits: Purpose, Types, and Essential Insights](https://www.youtube.com/watch?v=LVl2Lftj8A8)
 - [.NET 8 🔥🚀 : Exploring Dependency Injection Features](https://www.youtube.com/watch?v=10kCqQWJmQM)
-- [.NET 8  .🚀🔥:  Integrating Docker with a .NET Web API - A Step-by-Step Guide](https://www.youtube.com/watch?v=_wp2zJHs9l0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
