@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET  🔥🚀 : Guide to Create Robust API](https://www.youtube.com/watch?v=BX_eJi_YNWk)
 - [.NET 8 🔥🚀 : Guide to Telemetry and Metrics - Exploring new Features](https://www.youtube.com/watch?v=EAM506_H-vY)
 - [.NET 8 🔥🚀 : Guide to AutoMapper -  Simplify Your Object Mapping](https://www.youtube.com/watch?v=87fhsf8gfDg)
 - [C# 🔥🚀 : Features you might not know - Part 2](https://www.youtube.com/watch?v=gnGUxkKQfI8)
 - [.NET 8 🔥🚀 : Guide to Secure User Authentication - Exploring Identity new Features](https://www.youtube.com/watch?v=ORzt0lks2H4)
-- [.NET  🔥🚀 Unlock Hidden C# Powers:  Code Like a Pro!&quot;](https://www.youtube.com/watch?v=0wTiFghrwRc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
