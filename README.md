@@ -17,7 +17,7 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [.NET  🔥🚀 : Guide to Create Robust API](https://www.youtube.com/watch?v=BX_eJi_YNWk)
+- [.NET  🔥🚀 : Guide to Create Resilient &amp; Robust API](https://www.youtube.com/watch?v=BX_eJi_YNWk)
 - [.NET 8 🔥🚀 : Guide to Telemetry and Metrics - Exploring new Features](https://www.youtube.com/watch?v=EAM506_H-vY)
 - [.NET 8 🔥🚀 : Guide to AutoMapper -  Simplify Your Object Mapping](https://www.youtube.com/watch?v=87fhsf8gfDg)
 - [C# 🔥🚀 : Features you might not know - Part 2](https://www.youtube.com/watch?v=gnGUxkKQfI8)
