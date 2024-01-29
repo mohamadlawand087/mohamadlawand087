@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 🔥🚀 : Api versioning and why do we need it?](https://www.youtube.com/watch?v=C-KNM5S48po)
 - [Tech Topic🔥🚀 : What is OAuth? and why do we need it?](https://www.youtube.com/watch?v=FLqLtTvghYY)
 - [.NET 🔥🚀 : Guide to connect to multiple Databases](https://www.youtube.com/watch?v=ARzB1GoTSw8)
 - [.NET  🔥🚀 : Guide to Create Resilient &amp; Robust API](https://www.youtube.com/watch?v=BX_eJi_YNWk)
 - [.NET 8 🔥🚀 : Guide to Telemetry and Metrics - Exploring new Features](https://www.youtube.com/watch?v=EAM506_H-vY)
-- [.NET 8 🔥🚀 : Guide to AutoMapper -  Simplify Your Object Mapping](https://www.youtube.com/watch?v=87fhsf8gfDg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
