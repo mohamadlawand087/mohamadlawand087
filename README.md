@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 🔥🚀 : What are Middlewares and how we can leverage our APIs with it?](https://www.youtube.com/watch?v=kCanUtCts-c)
 - [Azure 🔥🚀 : Deploying a Static Website on Azure Storage with Terraform: A Step-by-Step Guide](https://www.youtube.com/watch?v=Adqm1yUDO80)
 - [Tech Topic🔥🚀 : Infrastructure as code why do we need it?](https://www.youtube.com/watch?v=8gf7TsMAEgc)
 - [.NET 🔥🚀 : Api versioning and why do we need it?](https://www.youtube.com/watch?v=C-KNM5S48po)
 - [Tech Topic🔥🚀 : What is OAuth? and why do we need it?](https://www.youtube.com/watch?v=FLqLtTvghYY)
-- [.NET 🔥🚀 : Guide to connect to multiple Databases](https://www.youtube.com/watch?v=ARzB1GoTSw8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
