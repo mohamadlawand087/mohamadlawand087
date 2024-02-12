@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 8  .🚀🔥:  Optimise Web API with Data Annotation](https://www.youtube.com/watch?v=qbgBg8YLrck)
 - [.NET 8.🚀🔥: What is Docker? Integrating Docker with a .NET Web API - A Step-by-Step Guide](https://www.youtube.com/watch?v=ZyTzy3P_lP8)
 - [.NET 8 🔥🚀 : Primary Constructors  - Exploring new Features](https://www.youtube.com/watch?v=FFch4roDMbE)
 - [.NET 8 🔥🚀 : Global Error Handling  - Exploring new Features](https://www.youtube.com/watch?v=vXg6U2zdQdw)
 - [.NET 🔥🚀 : What are Middlewares and how we can leverage our APIs with it?](https://www.youtube.com/watch?v=kCanUtCts-c)
-- [Azure 🔥🚀 : Deploying a Static Website on Azure Storage with Terraform: A Step-by-Step Guide](https://www.youtube.com/watch?v=Adqm1yUDO80)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
