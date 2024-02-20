@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 🔥🚀 : What are Minimal API?](https://www.youtube.com/watch?v=lTWmowB-ld8)
 - [.NET 8  .🚀🔥:  Aspire Preview 3 : Whats new &amp; Upgrade Guide](https://www.youtube.com/watch?v=d9_0Ep6d3As)
 - [.NET 9 🔥🚀 : Preview 1 is here](https://www.youtube.com/watch?v=Kijb6-mqAB8)
 - [.NET 8  .🚀🔥:  Optimise Web API with Data Annotation](https://www.youtube.com/watch?v=qbgBg8YLrck)
 - [.NET 8.🚀🔥: What is Docker? Integrating Docker with a .NET Web API - A Step-by-Step Guide](https://www.youtube.com/watch?v=ZyTzy3P_lP8)
-- [.NET 8 🔥🚀 : Primary Constructors  - Exploring new Features](https://www.youtube.com/watch?v=FFch4roDMbE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
