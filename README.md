@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 8  💥  - ASP.NET Core Web API Filters](https://www.youtube.com/watch?v=ZvxXK0AuFIQ)
 - [.NET 8 💥 - Web API Health Checks ⛑🚑🚑](https://www.youtube.com/watch?v=XTbxWQejbzs)
 - [.NET 8 🔥🚀 : Guide to Code Access with Attributes - Exploring new Features](https://www.youtube.com/watch?v=_FT169WtzOk)
 - [.NET 🔥🚀 : Minimal API with EF Core and SQLite](https://www.youtube.com/watch?v=tTIId8jZTJs)
 - [.NET 8 🔥🚀 : Guide to Web API AOT - Exploring new Features](https://www.youtube.com/watch?v=xpZVO6qw964)
-- [.NET 🔥🚀 : What are Minimal API?](https://www.youtube.com/watch?v=lTWmowB-ld8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
