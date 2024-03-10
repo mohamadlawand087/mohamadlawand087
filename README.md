@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET  💥  - Web API Securing and Tracking Data Change](https://www.youtube.com/watch?v=R0h4wNGIyeI)
 - [.NET 8  💥  - ASP.NET Core Request TimeOut](https://www.youtube.com/watch?v=B1taXbnAvx4)
 - [.NET 8 Blazor .🚀🔥 : Dynamic Input Validation](https://www.youtube.com/watch?v=L3xf02yXlqQ)
 - [.NET 8  💥  - ASP.NET Core Web API Filters](https://www.youtube.com/watch?v=ZvxXK0AuFIQ)
 - [.NET 8 💥 - Web API Health Checks ⛑🚑🚑](https://www.youtube.com/watch?v=XTbxWQejbzs)
-- [.NET 8 🔥🚀 : Guide to Code Access with Attributes - Exploring new Features](https://www.youtube.com/watch?v=_FT169WtzOk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
