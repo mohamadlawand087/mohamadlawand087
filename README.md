@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 8  .🚀🔥:  Aspire Preview 4 : Whats new &amp; Upgrade Guide](https://www.youtube.com/watch?v=cf2RVumMOPM)
 - [.NET 8  .🚀🔥:  Bye Docker, Hello Podman: Revolutionize Your Web APIs!](https://www.youtube.com/watch?v=sSGVqblVzbA)
 - [.NET 8  .🚀🔥:  Containerise Web App without Docker file - A Step-by-Step Guide](https://www.youtube.com/watch?v=FzWgM8Iot1A)
 - [.NET  💥  - Web API Securing and Tracking Data Change](https://www.youtube.com/watch?v=R0h4wNGIyeI)
 - [.NET 8  💥  - ASP.NET Core Request TimeOut](https://www.youtube.com/watch?v=B1taXbnAvx4)
-- [.NET 8 Blazor .🚀🔥 : Dynamic Input Validation](https://www.youtube.com/watch?v=L3xf02yXlqQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
