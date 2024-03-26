@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Node.js vs .NET API 🚀🔥🚀🔥: Database intgeration Exploring the Similarities and Differences](https://www.youtube.com/watch?v=1Ws17mQPJAA)
 - [Node.js vs .NET APIs 🚀🔥🚀🔥: Exploring the Similarities and Differences](https://www.youtube.com/watch?v=zTpyQxbnYv0)
 - [.NET 8  .🚀🔥:  Aspire Preview 4 : Whats new &amp; Upgrade Guide](https://www.youtube.com/watch?v=cf2RVumMOPM)
 - [.NET 8  .🚀🔥:  Bye Docker, Hello Podman: Revolutionize Your Web APIs!](https://www.youtube.com/watch?v=sSGVqblVzbA)
 - [.NET 8  .🚀🔥:  Containerise Web App without Docker file - A Step-by-Step Guide](https://www.youtube.com/watch?v=FzWgM8Iot1A)
-- [.NET  💥  - Web API Securing and Tracking Data Change](https://www.youtube.com/watch?v=R0h4wNGIyeI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
