@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 8  💥 - WebAPI and Docker Compose](https://www.youtube.com/watch?v=hD3-eflnE-E)
 - [.NET 8  💥  - ASP.NET Core SQLServer integration](https://www.youtube.com/watch?v=xC2iJA9InZY)
 - [.NET 8  💥  - ASP.NET Core PostgreSQL integration](https://www.youtube.com/watch?v=9ZzltgwNu54)
 - [.NET 8  💥  - ASP.NET Core JSON Serialisation](https://www.youtube.com/watch?v=iFsq5PlVozY)
 - [.NET 8  💥  - ASP.NET Core App Settings](https://www.youtube.com/watch?v=bpW9z7H4_ZQ)
-- [Node.js vs .NET API 🚀🔥🚀🔥: Database intgeration Exploring the Similarities and Differences](https://www.youtube.com/watch?v=1Ws17mQPJAA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
