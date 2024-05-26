@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 8  .🚀🔥:  Aspire in 12 minutes](https://www.youtube.com/watch?v=niaOWzLUa5Y)
 - [Microsoft Build 2024 🔥🔥🔥 : Whats new with .NET](https://www.youtube.com/watch?v=p01D3Vb5nSQ)
 - [.NET 8  💥 - Event Driven Architecture with Service Bus &lpar;step by step&rpar;](https://www.youtube.com/watch?v=YUFjiJwn8kI)
 - [AWS🔥 : How to Host a React App on AWS with S3 and Terraform: A Step-by-Step Guide](https://www.youtube.com/watch?v=qgeL9t_718o)
 - [.NET 8  💥 - Docker Compose with PostgreSQL, and Redis &lpar;step by step&rpar;](https://www.youtube.com/watch?v=Lw9AlXbTQFs)
-- [.NET 8  .🚀🔥:  Aspire Preview 7 : Upgrade Guide &amp; Breaking changes](https://www.youtube.com/watch?v=nxW1FXgnMk0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
