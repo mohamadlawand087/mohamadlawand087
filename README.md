@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 8  .🚀🔥: Integrating with OpenAI SDK](https://www.youtube.com/watch?v=QPxYt_nrGTA)
 - [GitHub Actions + AWS S3 🔥: Automating React App Deployment](https://www.youtube.com/watch?v=tajK4ezyuNc)
 - [.NET 8  .🚀🔥: Integrating with Chat GPT 4o - Vision](https://www.youtube.com/watch?v=HKuXdmzSVKY)
 - [.NET 8  .🚀🔥: Building a .NET API Project from Zero](https://www.youtube.com/watch?v=xLyfTK5b4Y4)
 - [.NET 8  .🚀🔥:  Aspire in 12 minutes](https://www.youtube.com/watch?v=niaOWzLUa5Y)
-- [Microsoft Build 2024 🔥🔥🔥 : Whats new with .NET](https://www.youtube.com/watch?v=p01D3Vb5nSQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
