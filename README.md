@@ -29,11 +29,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📖 Latest Article
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET 8 💥 - Intro to Kubernetes for .NET Devs](https://dev.to/moe23/net-8-intro-to-kubernetes-for-net-devs-1omm)
 - [.NET 6 - Background Jobs with Hangfire 🔥🔥🔥](https://dev.to/moe23/net-6-background-jobs-with-hangfire-4nj7)
 - [.NET 6 - AutoMapper &amp; Data Transfer Objects &lpar;DTOs&rpar; 🗺](https://dev.to/moe23/net-6-automapper-data-transfer-objects-dtos-49e)
 - [.NET 6 - Web API Global Exceptions Handling 🌐](https://dev.to/moe23/net-6-web-api-global-exceptions-handling-1a46)
 - [.NET 6 - Web API Logging 📝](https://dev.to/moe23/net-6-web-api-logging-2akc)
-- [.NET 6 - Web API Correlation Id 🔗](https://dev.to/moe23/net-6-web-api-correlation-id-2k6b)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 [Visit my blog for more articles](https://dev.to/moe23)
