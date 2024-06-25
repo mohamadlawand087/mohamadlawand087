@@ -17,7 +17,7 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [.NET 8  💥  - Deploy .NET API to Kubernetes](https://www.youtube.com/watch?v=zGGD4U0F7w0)
+- [.NET 8  💥  - Deploy .NET Application to Kubernetes](https://www.youtube.com/watch?v=zGGD4U0F7w0)
 - [.NET hosting providers #shorts #dotnet #coding #programming](https://www.youtube.com/watch?v=YVi_qQfZzwM)
 - [Tech Question of the day #programming #coding #dotnet](https://www.youtube.com/watch?v=qb--RLKJ2ko)
 - [K8S 🔥: Introduction to MiniKube and KubeCTL](https://www.youtube.com/watch?v=K8Jxqe9v39g)
