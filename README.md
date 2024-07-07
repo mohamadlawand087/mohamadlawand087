@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 8  .🚀🔥: Tips when updating from .net 6 to 8](https://www.youtube.com/watch?v=4EC-O9CNCFU)
 - [.NET 8  .🚀🔥: Performance tips to speed up your EF Core](https://www.youtube.com/watch?v=UJiRSngyzlc)
 - [.NET 8  .🚀🔥: Performance tips to speed up your Web API](https://www.youtube.com/watch?v=0qtWIaHnQ6c)
 - [.NET 9  .🚀🔥: Bye Swashbuckle](https://www.youtube.com/watch?v=c3K3c9ni2Pk)
 - [.NET 8  .🚀🔥: Integrating with Chat GPT 4o with Semantic Kernel in 6 min](https://www.youtube.com/watch?v=CtvmRbnyE24)
-- [.NET 8  💥  - Deploy .NET Application to Kubernetes](https://www.youtube.com/watch?v=zGGD4U0F7w0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
