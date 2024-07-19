@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 8 🔥🚀 : Guide to Custom Authentication - Role Management](https://www.youtube.com/watch?v=3VkMjpHGfy8)
 - [.NET 8  .🚀🔥: Generate images with DALL-E](https://www.youtube.com/watch?v=n9QRLH6eL4I)
 - [.NET 8  .🚀🔥: API Security Password Reset](https://www.youtube.com/watch?v=9RtbzU0z9LM)
 - [.NET 8  .🚀🔥: API Security Email verification](https://www.youtube.com/watch?v=h0IUH23j7rk)
 - [.NET 8  .🚀🔥: API Security with Lockout](https://www.youtube.com/watch?v=JS2kGz1XzYs)
-- [.NET 8  .🚀🔥: Tips when updating from .net 6 to 8](https://www.youtube.com/watch?v=4EC-O9CNCFU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
