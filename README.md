@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 8  💥  - Introduction to YARP](https://www.youtube.com/watch?v=5vW_z19MlYc)
 - [.NET 8  💥  - Track every request with custom header](https://www.youtube.com/watch?v=Q6At0HX9oG0)
 - [.NET 8  💥  - Logs Dashboard with Serilog &amp; SEQ](https://www.youtube.com/watch?v=0WSLE3Okte4)
 - [.NET 8  💥  - Introduction to Serilog Integration](https://www.youtube.com/watch?v=SsMqwuYJvKk)
 - [.NET 8 🔥🚀 : Guide to Custom Authentication - Role Management](https://www.youtube.com/watch?v=3VkMjpHGfy8)
-- [.NET 8  .🚀🔥: Generate images with DALL-E](https://www.youtube.com/watch?v=n9QRLH6eL4I)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
