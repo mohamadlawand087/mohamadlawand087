@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Stack Overflow Developer Survey 2024: Key Insights &amp; Trends for coders](https://www.youtube.com/watch?v=mCnnJjOtr6A)
 - [.NET 8  .🚀🔥: Transcribe and Translate Audio with Whisper](https://www.youtube.com/watch?v=oCHxZ-nrkyo)
 - [.NET 8  💥  - API Gateway Authentication with YARP](https://www.youtube.com/watch?v=7Twb8LcIZeQ)
 - [.NET 8  💥  - Introduction to YARP](https://www.youtube.com/watch?v=5vW_z19MlYc)
 - [.NET 8  💥  - Track every request with custom header](https://www.youtube.com/watch?v=Q6At0HX9oG0)
-- [.NET 8  💥  - Logs Dashboard with Serilog &amp; SEQ](https://www.youtube.com/watch?v=0WSLE3Okte4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
