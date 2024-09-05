@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 8  .🚀🔥: Crud API with Dapper 🚀🚀🚀](https://www.youtube.com/watch?v=6uMiOvanL5Y)
 - [.NET 8  .🚀🔥: Speedup your API with Redis Caching🚀🚀🚀](https://www.youtube.com/watch?v=fMUHhuGfqwg)
 - [.NET 8  .🚀🔥: Search with Elastic Search 🔍](https://www.youtube.com/watch?v=FTqN7pB5DXM)
 - [Stack Overflow Developer Survey 2024: Key Insights &amp; Trends for coders](https://www.youtube.com/watch?v=mCnnJjOtr6A)
 - [.NET 8  .🚀🔥: Transcribe and Translate Audio with Whisper](https://www.youtube.com/watch?v=oCHxZ-nrkyo)
-- [.NET 8  💥  - API Gateway Authentication with YARP](https://www.youtube.com/watch?v=7Twb8LcIZeQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
