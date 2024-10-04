@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 8  💥 - SNS and SQS Beginner guide - Event Driven Architecture](https://www.youtube.com/watch?v=kQ8xY4isU5I)
 - [.NET 8  💥 - Event Driven Architecture with SQS &lpar;step by step&rpar;](https://www.youtube.com/watch?v=3NevBx84toc)
 - [.NET API .🚀🔥: Performance Testing 🚀🚀](https://www.youtube.com/watch?v=8Wa0N9Y1W5A)
 - [.NET 8  .🚀🔥: Crud API with Dapper 🚀🚀🚀](https://www.youtube.com/watch?v=6uMiOvanL5Y)
 - [.NET 8  .🚀🔥: Speedup your API with Redis Caching🚀🚀🚀](https://www.youtube.com/watch?v=fMUHhuGfqwg)
-- [.NET 8  .🚀🔥: Search with Elastic Search 🔍](https://www.youtube.com/watch?v=FTqN7pB5DXM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
