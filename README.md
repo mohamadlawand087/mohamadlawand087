@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 9 🚀 💥 - Whats new?](https://www.youtube.com/watch?v=vBLi0CrC1EU)
 - [.NET 8  .🚀🔥: Open Telemetry and .NET with Aspire Dashboard 🔥🔥](https://www.youtube.com/watch?v=wPGsyVQhe2s)
 - [.NET 8  .🚀🔥: Minimal API 🆚 Controllers 🔥🔥](https://www.youtube.com/watch?v=3qCKwQSsg6Q)
 - [.NET 8  💥 - SNS and SQS Beginner guide - Event Driven Architecture](https://www.youtube.com/watch?v=kQ8xY4isU5I)
 - [.NET 8  💥 - Event Driven Architecture with SQS &lpar;step by step&rpar;](https://www.youtube.com/watch?v=3NevBx84toc)
-- [.NET API .🚀🔥: Performance Testing 🚀🚀](https://www.youtube.com/watch?v=8Wa0N9Y1W5A)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
