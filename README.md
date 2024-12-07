@@ -17,7 +17,7 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [.NET 9 🚀 💥 - Open API Document](https://www.youtube.com/watch?v=oudGfPAg6Mc)
+- [.NET 9 🚀 💥 - dotnet CLI scaffolding](https://www.youtube.com/watch?v=oudGfPAg6Mc)
 - [.NET 9 🚀 💥 - Open API Document](https://www.youtube.com/watch?v=URonGPjv8kE)
 - [Azure  🔥: Azure Service Bus Local Emulator is Available](https://www.youtube.com/watch?v=MxEmiPXo3Dk)
 - [.NET  IDE 🚀 💥 - Rider is now Free 🔥🔥🔥](https://www.youtube.com/watch?v=oVSO4V4Ni80)
