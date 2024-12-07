@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 9 🚀 💥 - Open API Document](https://www.youtube.com/watch?v=oudGfPAg6Mc)
 - [.NET 9 🚀 💥 - Open API Document](https://www.youtube.com/watch?v=URonGPjv8kE)
 - [Azure  🔥: Azure Service Bus Local Emulator is Available](https://www.youtube.com/watch?v=MxEmiPXo3Dk)
 - [.NET  IDE 🚀 💥 - Rider is now Free 🔥🔥🔥](https://www.youtube.com/watch?v=oVSO4V4Ni80)
 - [.NET 9 🚀 💥 - Whats new?](https://www.youtube.com/watch?v=vBLi0CrC1EU)
-- [.NET 8  .🚀🔥: Open Telemetry and .NET with Aspire Dashboard 🔥🔥](https://www.youtube.com/watch?v=wPGsyVQhe2s)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
