@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [api problems #dotnet #programming #coding](https://www.youtube.com/watch?v=2Ocnw6CadUs)
 - [.NET 9 🚀 💥 - Hybrid Cache](https://www.youtube.com/watch?v=hH1RvMcCsHQ)
 - [.NET 9 🚀 💥 - EF Core Soft Delete](https://www.youtube.com/watch?v=Uk6iOl_0aI8)
 - [.NET 9 🚀 💥 - dotnet CLI scaffolding](https://www.youtube.com/watch?v=oudGfPAg6Mc)
 - [.NET 9 🚀 💥 - Open API Document](https://www.youtube.com/watch?v=URonGPjv8kE)
-- [Azure  🔥: Azure Service Bus Local Emulator is Available](https://www.youtube.com/watch?v=MxEmiPXo3Dk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
