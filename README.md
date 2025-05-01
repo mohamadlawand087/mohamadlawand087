@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 9 🔥🚀 : ASP.NET Core feature flags](https://www.youtube.com/watch?v=t3LZxsXIONw)
 - [.NET 9 🔥🚀 : ASP.NET Core Web API Versioning](https://www.youtube.com/watch?v=DkZd-5z0CeI)
 - [.NET 9 🚀 💥 - AI Chat](https://www.youtube.com/watch?v=beHUtDkSBBc)
 - [.NET 9 🚀 💥 - Generate PDF in your API](https://www.youtube.com/watch?v=Ff1W3ASVqKs)
 - [.NET 💥 - Event Driven Architecture with Azure Service Bus &lpar;step by step&rpar;](https://www.youtube.com/watch?v=9w4XQx2CGaI)
-- [.NET 10 🚀 💥 - Whats new in .NET 10?](https://www.youtube.com/watch?v=zxzqayX6P_c)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
