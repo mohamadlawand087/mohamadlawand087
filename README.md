@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 9 🔥🚀 : Stop Showing Stack Traces! Global Error Handling in .NET Web API Explained](https://www.youtube.com/watch?v=50fUNjMkiiY)
 - [.NET 9 🔥🚀 : ASP.NET Core Webhooks](https://www.youtube.com/watch?v=eBrElmGDai0)
 - [.NET 9 🔥🚀 : ASP.NET Core feature flags](https://www.youtube.com/watch?v=t3LZxsXIONw)
 - [.NET 9 🔥🚀 : ASP.NET Core Web API Versioning](https://www.youtube.com/watch?v=DkZd-5z0CeI)
 - [.NET 9 🚀 💥 - AI Chat](https://www.youtube.com/watch?v=beHUtDkSBBc)
-- [.NET 9 🚀 💥 - Generate PDF in your API](https://www.youtube.com/watch?v=Ff1W3ASVqKs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
