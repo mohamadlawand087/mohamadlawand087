@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET 10 on Linux 🔥🚀:  Ubuntu Setup](https://www.youtube.com/watch?v=WXSI_Bwr3ps)
 - [.NET 10 🔥🚀 : Secure a .NET 10 Web API with JWT - Issuer/Audience/Key Validation](https://www.youtube.com/watch?v=EdiQLP9WMbE)
 - [Stop Using This Dockerfile ❌ &lpar;Multi-Stage + Non-Root Fix ✅&rpar; #docker#containers #cloud](https://www.youtube.com/shorts/Mh1bdJN0ASw)
 - [What is container health?  #cloud #docker #containers](https://www.youtube.com/shorts/UjTfJTaiVJg)
 - [Dockerizing a .NET 10 API &lpar;Production Way&rpar;](https://www.youtube.com/watch?v=xNle9zuZeFc)
-- [GitHub MCP Just Changed AI Dev Workflows — Here’s How to Use It in VS Code](https://www.youtube.com/watch?v=WJow2OKfYwI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
