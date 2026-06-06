@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [.NET🔥🚀: I Made My .NET MCP Server Remote — Step by Step](https://www.youtube.com/watch?v=Qdk4aqIdf-w)
 - [.NET🔥🚀:  Building MCP Server](https://www.youtube.com/watch?v=y-d_7eaE7sw)
 - [.NET 11🔥🚀 : Exploring Preview 1 of .NET 11 and its features](https://www.youtube.com/watch?v=Dldw6hygTz0)
 - [.NET 10 on Linux 🔥🚀:  Ubuntu Setup](https://www.youtube.com/watch?v=WXSI_Bwr3ps)
 - [.NET 10 🔥🚀 : Secure a .NET 10 Web API with JWT - Issuer/Audience/Key Validation](https://www.youtube.com/watch?v=EdiQLP9WMbE)
-- [Stop Using This Dockerfile ❌ &lpar;Multi-Stage + Non-Root Fix ✅&rpar; #docker#containers #cloud](https://www.youtube.com/shorts/Mh1bdJN0ASw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
