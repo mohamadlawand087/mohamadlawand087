@@ -17,11 +17,11 @@ I create tech content related to DotNet, Azure and Angular. You can subscribe to
 📺 Latest Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [One Interface for Every LLM — Microsoft.Extensions.AI](https://www.youtube.com/watch?v=3URifZTVrRw)
 - [Stop Doing .NET Observability the Hard Way](https://www.youtube.com/shorts/rjI4tjBvizY)
 - [.NET Observability Done Right: Traces, Metrics &amp; Logs in ONE Setup](https://www.youtube.com/watch?v=F-Htbhf-63A)
 - [The one line that makes your .NET MCP server remote](https://www.youtube.com/shorts/4e0CQc7OpuA)
 - [.NET🔥🚀: I Made My .NET MCP Server Remote — Step by Step](https://www.youtube.com/watch?v=Qdk4aqIdf-w)
-- [.NET🔥🚀:  Building MCP Server](https://www.youtube.com/watch?v=y-d_7eaE7sw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 🔗 [Visit my channel for more videos](https://www.youtube.com/c/mohamadlawand)
